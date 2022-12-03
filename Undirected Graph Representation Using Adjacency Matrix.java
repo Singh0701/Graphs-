@@ -2,7 +2,7 @@ import java.util.*;
 
 //Undirected Graph Representation using Adjacency Matrix.
 public class GraphRepresentation {
-    public static void main(String[] agrs) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter the number of nodes: ");
