@@ -1,6 +1,6 @@
 import java.util.*;
 
-//Directed Weighted Graph Representation using Adjacency List.
+//Undirected Weighted Graph Representation using Adjacency List.
 public class UndirectedWeightedGraph {
     static class Pair {
         int u;
